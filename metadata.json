@@ -1,0 +1,5 @@
+{
+  "name": "GROUPE RASMAL MADE BY MAISSINE",
+  "description": "Smart PDF bank statement extraction tool using Gemini AI. Extracts dates, labels, debits, and credits for Excel export.",
+  "requestFramePermissions": []
+}
